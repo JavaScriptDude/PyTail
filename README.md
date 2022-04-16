@@ -1,9 +1,7 @@
 ### PyTail
 Tail Implementation In Python (wrapper for *nix tail)
 
-Written to demonstrate how to write a cross platform tool that executes long running sub processes and capturing stderr and stdout in separate code paths for handling.
-
-This tool provides an example of automating the processing log files of other processes in python.
+Written to demonstrate how to write a cross platform tool that executes long running sub processes and capturing stderr and stdout in separate code paths for handling in python.
 
 This implementation is non-blocking and thus will not interrupt the tool creating or rotating the log file.
 
