@@ -1,4 +1,4 @@
-### pytail
+### PyTail
 Tail Implementation In Python (wrapper for *nix tail)
 
 Written to demonstrate how to write a cross platform tool that executes long running sub processes and capturing stderr and stdout in separate code paths for handling.
